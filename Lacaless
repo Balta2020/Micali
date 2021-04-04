@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF: 1, PREMIER 
+https://vsd93.mycdn.me:443/hls/1163210656280.m3u8/sig/reSLpbQMcms/expires/1617643470964/srcIp/181.115.62.61/clientType/0/srcAg/CHROME_ANDROID/mid/2814056209944/1163210656280_high/index.m3u8
+#EXTINF: 1,  LA LIGA
+https://63w3xgfvupsksatr.ezcdn383.net:8443/hls/eviy3tp9sa8v04t.m3u8?s=OHI4ZHlEIsWcqPr5o0g6QA&e=1617579216
